@@ -1,4 +1,4 @@
-# AI_PROJECT
+# AI_PROJECT_ RL BASED SYSTEM FOR ASSISTING CAB DRIVERS
 
 In this competitive world, Most drivers get healthy number of rides from customers throughout the day. But with the recent hikes in gas and electricity prices, many drivers complain that their profits are not increasing although their revenue is increasing. It is very important to choose the right rides for drivers which helps to maximize their profits throughout the day. In our project, we are using Reinforcement Learning for assisting cab drivers to maximize the profits for them.
 
